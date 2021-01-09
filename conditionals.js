@@ -8,7 +8,7 @@ if (raining) {
 if (cold) {
   console.log("Make sure you pick out a scarf!");
 }
-//-------------------------------------------------------////
+//-------------------------------------------------------///////
 console.log("Now you're ready to go outside!");
 
 const temperature = 25;
@@ -20,7 +20,7 @@ if (temperature < 0) {
 } else {
   console.log("Short sleeves are fine.");
 }
-// -------------------------------------------------------
+// -----------------------------------------------/////--------
 console.log("Now you're ready to go outside!");
 
 const isCitizen = true;
