@@ -41,5 +41,7 @@ if (!raining) {
 // --------------------------------------------------------
 
 
-
-// -------------------------------------------------------
+// when using comparison operators versus assignment operators, keep an eye out
+// comparison operator syntax is very important greater than, less than, 
+//or not operators must come before the equals operators or the code will not run correctly
+//write out the code the long way first, then make code DRY after fully understanding the logic
